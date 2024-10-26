@@ -1,0 +1,216 @@
+{
+    "destinations": [
+        {
+            "id": 1,
+            "name": "Paris",
+            "country": "France",
+            "description": "The city of lights and love.",
+            "image": "https://i.postimg.cc/WzjqGwtm/paris-2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Tokyo",
+            "country": "Japan",
+            "description": "A bustling metropolis with a mix of traditional and modern culture.",
+            "image": "https://i.postimg.cc/FK8jLSjG/Tokyo-1.webp"
+        },
+        {
+            "id": 3,
+            "name": "New York",
+            "country": "USA",
+            "description": "The city that never sleeps, known for its skyline and cultural diversity.",
+            "image": "https://i.postimg.cc/BZdV08kT/Statue-of-Liberty-Tour-6.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sydney",
+            "country": "Australia",
+            "description": "Known for its stunning harbor and Opera House.",
+            "image": "https://i.postimg.cc/j2G93C0h/Sydney-3.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Rome",
+            "country": "Italy",
+            "description": "The Eternal City, rich in history and culture.",
+            "image": "https://i.postimg.cc/8k6VMVVb/Rome-1.jpg"
+        }
+    ],
+    "offers": [
+        {
+            "id": 101,
+            "destinationId": 1,
+            "title": "Eiffel Tower Tour",
+            "rating" : 4.8,
+            "price": 255,
+            "details": "A guided tour of the Eiffel Tower with scenic views, offering detailed insights into the history and construction of this iconic monument. Discover the best spots for photography and learn about the fascinating facts of the Eiffel Tower.",
+            "images": [
+                "https://i.postimg.cc/3R2D0crJ/paris-7.jpg",
+                "https://i.postimg.cc/Lsc1Xppb/paris-3.webp",
+                "https://i.postimg.cc/k56Sq5kS/paris-4.jpg"
+            ]
+        },
+        {
+            "id": 102,
+            "destinationId": 1,
+            "title": "Louvre Museum Visit",
+            "rating" : 4.4,
+            "price": 650,
+            "details": "Entrance to the Louvre Museum with a guided tour that explores the vast collections of art, including the Mona Lisa. This tour provides a comprehensive overview of the museum's most significant exhibits and hidden gems.",
+            "images": [
+                "https://i.postimg.cc/Dyn1LnXV/Louvre-Museum-1.webp",
+                "https://i.postimg.cc/J0cJvdSd/Louvre-Museum-4.jpg",
+                "https://i.postimg.cc/Y0wYXwDW/Louvre-Museum-5.jpg",
+                "https://i.postimg.cc/nVvvXCMY/Louvre-Museum-3.jpg",
+                "https://i.postimg.cc/pdpfrCnp/Louvre-Museum-8.jpg"
+            ]
+        },
+        {
+            "id": 201,
+            "destinationId": 2,
+            "title": "Mount Fuji Day Trip",
+            "rating" : 4.7,
+            "price": 780,
+            "details": "A full-day trip to Mount Fuji with a guided tour, including a visit to the famous 5th Station and the beautiful Lake Kawaguchi. Experience the stunning views of Japan's tallest peak and learn about its cultural significance.",
+            "images": [
+                "https://i.postimg.cc/hvFbHmvh/Mount-Fuji-Day-Trip-5.avif",
+                "https://i.postimg.cc/xjHPL6pm/Mount-Fuji-Day-Trip-2.jpg",
+                "https://i.postimg.cc/T1rqGP50/Mount-Fuji-Day-Trip-3.jpg",
+                "https://i.postimg.cc/Gm3JwdLP/Mount-Fuji-Day-Trip-1.webp"
+            ]
+        },
+        {
+            "id": 202,
+            "destinationId": 2,
+            "title": "Tokyo Disneyland Ticket",
+            "rating" : 4.9,
+            "price": 380,
+            "details": "One-day ticket to Tokyo Disneyland with all rides included. Enjoy the magical world of Disney, featuring a variety of attractions, parades, and shows that cater to visitors of all ages.",
+            "images": [
+                "https://i.postimg.cc/7ZX9fbsQ/Tokyo-Disneyland-Ticket-5.jpg",
+                "https://i.postimg.cc/wBvVJHnx/Tokyo-Disneyland-Ticket-2.jpg",
+                "https://i.postimg.cc/vZGXY5zV/Tokyo-Disneyland-Ticket-4.jpg",
+                "https://i.postimg.cc/25Kx7MfQ/Tokyo-Disneyland-Ticket-3.jpg"
+            ]
+        },
+        {
+            "id": 203,
+            "destinationId": 2,
+            "title": "Sushi Making Class",
+            "rating" : 4.1,
+            "price": 670,
+            "details": "Learn to make sushi from a professional chef in this hands-on class. Discover the secrets of sushi preparation and enjoy tasting your creations in a traditional Japanese setting.",
+            "images": [
+                "https://i.postimg.cc/XNysQjqp/Sushi-Making-Class-2.jpg",
+                "https://i.postimg.cc/fTcBQ8xs/Sushi-Making-Class-1.webp",
+                "https://i.postimg.cc/mkMVDwJQ/Sushi-Making-Class-3.jpg",
+                "https://i.postimg.cc/MGP9rX1j/Sushi-Making-Class-5.webp"
+            ]
+        },
+        {
+            "id": 301,
+            "destinationId": 3,
+            "title": "Statue of Liberty Tour",
+            "rating" : 4.5,
+            "price": 945,
+            "details": "A boat trip to the Statue of Liberty with a guided tour that explores the history and significance of this iconic American landmark. Enjoy panoramic views of New York City and learn about the statue's symbolism.",
+            "images": [
+                "https://i.postimg.cc/7LYBVSJk/Statue-of-Liberty-Tour-2.jpg",
+                "https://i.postimg.cc/0QzVgxCX/Statue-of-Liberty-Tour-1.jpg",
+                "https://i.postimg.cc/8PMnPpgq/Statue-of-Liberty-Tour-3.jpg",
+                "https://i.postimg.cc/pLvcmw2y/Statue-of-Liberty-Tour-5.jpg"
+            ]
+        },
+        {
+            "id": 302,
+            "destinationId": 3,
+            "title": "Top of the Rock Observation Deck",
+            "rating" : 3.9,
+            "price": 780,
+            "details": "Admission to the Top of the Rock Observation Deck at Rockefeller Center, offering stunning views of New York City's skyline, including Central Park and the Empire State Building. A must-see experience for panoramic city views.",
+            "images": [
+                "https://i.postimg.cc/xd0GQY9y/Top-of-the-Rock-Observation-Deck-5.jpg",
+                "https://i.postimg.cc/YCbKN6q6/Top-of-the-Rock-Observation-6.jpg",
+                "https://i.postimg.cc/j2JPcShK/Top-of-the-Rock-Observation-Deck-3.jpg",
+                "https://i.postimg.cc/HWJhR0ZW/Top-of-the-Rock-Observation-Deck-1.jpg"
+            ]
+        },
+        {
+            "id": 401,
+            "destinationId": 4,
+            "title": "Sydney Opera House Tour",
+            "rating" : 4,
+            "price": 155,
+            "details": "A guided tour of the Sydney Opera House with exclusive access to behind-the-scenes areas. Learn about the architectural marvel and its cultural impact while enjoying breathtaking views of Sydney Harbour.",
+            "images": [
+                "https://i.postimg.cc/hjYVVdTp/Sydney-1.webp",
+                "https://i.postimg.cc/VNV30KGT/Sydney-Opera-House-Tour-5.jpg",
+                "https://i.postimg.cc/4yCqBmTQ/Sydney-Opera-House-Tour-2.avif",
+                "https://i.postimg.cc/9Mwsdysf/Sydney-Opera-House-Tour-4.jpg",
+                "https://i.postimg.cc/2y4JJrkR/Sydney-Opera-House-Tour-3.jpg"
+            ]
+        },
+        {
+            "id": 402,
+            "destinationId": 4,
+            "title": "Sydney Harbour Cruise",
+            "rating" : 4.7,
+            "price": 170,
+            "details": "A cruise around Sydney Harbour with lunch included. Enjoy spectacular views of iconic landmarks such as the Sydney Opera House and Harbour Bridge while indulging in a delicious meal.",
+            "images": [
+                "https://i.postimg.cc/MGTCGCDV/Sydney-Harbour-Cruise-1.jpg",
+                "https://i.postimg.cc/pXQbcYrh/Sydney-Harbour-Cruise-4.jpg",
+                "https://i.postimg.cc/2SzpsbLH/Sydney-Harbour-Cruise-2.jpg",
+                "https://i.postimg.cc/YCbcMr1t/Sydney-Harbour-Cruise-3.webp",
+                "https://i.postimg.cc/RVxxTbSx/Sydney-Harbour-Cruise-5.jpg"
+            ]
+        },
+        {
+            "id": 501,
+            "destinationId": 5,
+            "title": "Colosseum Tour",
+            "rating" : 4.3,
+            "price": 350,
+            "details": "A guided tour of the Colosseum, Rome's iconic monument. Learn about the ancient history, architecture, and the gladiatorial games that once took place in this magnificent amphitheater.",
+            "images": [
+                "https://i.postimg.cc/HLkgycpJ/Colosseum-Tour-4.avif",
+                "https://i.postimg.cc/259fFk60/Colosseum-Tour-5.avif",
+                "https://i.postimg.cc/0Q61VTKP/Colosseum-Tour-1.jpg",
+                "https://i.postimg.cc/KzdSw0tL/Colosseum-Tour-2.jpg",
+                "https://i.postimg.cc/QdbDCkrG/Colosseum-Tour-6.jpg"
+            ]
+        },
+        {
+            "id": 502,
+            "destinationId": 5,
+            "title": "Vatican Museums Visit",
+            "rating" : 4.9,
+            "price": 560,
+            "details": "Entrance to the Vatican Museums with a guided tour. Explore the vast collections of art and historical artifacts, including the Sistine Chapel and St. Peter's Basilica.",
+            "images": [
+                "https://i.postimg.cc/fkn2jFm2/Vatican-Museums-Visit-3.jpg",
+                "https://i.postimg.cc/bw88qVW9/Vatican-Museums-Visit-1.jpg",
+                "https://i.postimg.cc/NFrCXY92/Vatican-Museums-Visit-4.jpg",
+                "https://i.postimg.cc/HsbdD1ZL/Vatican-Museums-Visit-6.webp"
+            ]
+        },
+        {
+            "id": 503,
+            "destinationId": 5,
+            "title": "Trevi Fountain Tour",
+            "rating" : 4.2,
+            "price": 245,
+            "details": "A tour of the iconic Trevi Fountain, including its history and significance in Roman culture. Discover the fascinating stories behind this famous landmark and enjoy a guided exploration of the surrounding area.",
+            "images": [
+                "https: //i.postimg.cc/nhLwJ6pm/Trevi-Fountain-Tour-1.webp",
+                "https: //i.postimg.cc/mZQnNYmP/Trevi-Fountain-Tour-2.jpg",
+                "https: //i.postimg.cc/kGFhJC2Q/Trevi-Fountain-Tour-3.jpg",
+                "https: //i.postimg.cc/DynMCSNB/Trevi-Fountain-Tour-4.jpg",
+                "https: //i.postimg.cc/gksB1YFd/Trevi-Fountain-Tour-5.jpg"
+            ]
+        }
+    ],
+    "users" : [
+       
+    ]
+}
