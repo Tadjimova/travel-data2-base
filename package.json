@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch --host 0.0.0.0 ./travels.json  --port 3000"
+    "start": "json-server --watch --host 0.0.0.0 travels.json  --port 3000"
   },
   "keywords": [],
   "author": "",
